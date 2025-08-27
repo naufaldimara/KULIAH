@@ -1,3 +1,3 @@
 void main () {
-  print("selamat datang di kelas naufal dimarar");
+  print ("selamat datang di kelas naufal dimara");
 }
