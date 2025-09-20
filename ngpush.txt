@@ -1,0 +1,6 @@
+git init
+git add .
+git commit -m "Menambahkan program Sistem Penilaian Mahasiswa Memperbaiki validasi input"
+git branch -M main
+git remote add origin https://github.com/naufaldimara/pemrograman-mobile-tugas-variabel-dan-typedata.git
+git push -u origin main
