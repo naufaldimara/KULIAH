@@ -25,4 +25,4 @@ Perhitungan:
 4. Jalankan perintah berikut:
 
 ```bash
-dart tugas.dart
+dart variabel_tipedata.dart
